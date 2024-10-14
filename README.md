@@ -2,7 +2,7 @@
 
 This repository contains a PyTorch implementation of the paper:
 
-[A Neural Ordinary Differential Equations Approach for 2D Flow Properties Analysis of Hydraulic Structures](https:// Correct linked to pdf at PMLR will be added). 
+[A Neural Ordinary Differential Equations Approach for 2D Flow Properties Analysis of Hydraulic Structures](https://www.researchgate.net/publication/384453837_A_Neural_Ordinary_Differential_Equations_Approach_for_2D_Flow_Properties_Analysis_of_Hydraulic_Structures). 
 <br>
 [Sebastian Eilermann*](https://www.hsu-hh.de/imb/en/staff), 
 [Lisa Lüddecke*](https://www.hsu-hh.de/wasserbau/team/),
@@ -35,8 +35,8 @@ Please cite our work if you find it useful:
 ```latex
 @article{flowprop,
  title={A Neural Ordinary Differential Equations Approach for 2D Flow Properties Analysis of Hydraulic Structures},
- author={Eilermann, Sebastian and },
- journal={ggg},
+ author={Eilermann, Sebastian and Lueddecke, Lisa and Hohmann, Michael and Zimmering, Bernd and Oertel, Mario and Niggemann, Oliver},
+ journal={PMLR},
  year={2024}
 }
 ```
